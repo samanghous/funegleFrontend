@@ -14,7 +14,7 @@
 - It is this point that my project takes care of i.e to match a guy based on common chosen interest .
 - This project is Random video chat portal but on a common chosen topic
 
-## Kindly Visit the web portal at - 
+## Kindly Visit the web portal here
 https://funeglefrontend.herokuapp.com/
 
  
