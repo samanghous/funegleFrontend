@@ -15,6 +15,6 @@
 - This project is Random video chat portal but on a common chosen topic
 
 ## Kindly Visit the web portal here
-https://funeglefrontend.herokuapp.com/
+- https://funeglefrontend.herokuapp.com/
 
  
