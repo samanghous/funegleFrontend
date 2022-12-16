@@ -1,4 +1,6 @@
-# FunOmegle or Funegle 
+# FunOmegle or Funegle Front end using vue js
+
+## Backend app project link https://github.com/samanghous/funeglebackend
 
 ## Features of this project
 - Fully functioning project with delightful user experience
