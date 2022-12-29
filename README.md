@@ -16,9 +16,7 @@
 - Hence it is utmost important to ask participants common interest before match.
 - This project is also a complete random video chat portal, but with an extra feature that participants is matched based on their chosen topic. 
 
-## Kindly 
-Visit the web portal here
-- https://funeglefrontend.herokuapp.com/
+## Demo
 
  ![omg1](https://user-images.githubusercontent.com/62466836/209998434-fa1be5b2-3e55-42a8-b63c-5786acfd3235.jpg)
 
