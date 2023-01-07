@@ -2,13 +2,13 @@
 
 ## Demo
 
-## Login
+## Login Page
 <img width="959" alt="login" src="https://user-images.githubusercontent.com/62466836/211167274-d695a90b-252e-4aa7-981e-458e52711138.png">
 
-## OTP Section
+## OTP Section (otp hashed in backend)
 <img width="746" alt="otp email" src="https://user-images.githubusercontent.com/62466836/211167275-e0061fa9-8387-4fcb-9e94-b2701423274e.png">
 
-## OTP Received
+## OTP Received (otp send by backend to respective email)
 <img width="953" alt="otp" src="https://user-images.githubusercontent.com/62466836/211167281-9856c09d-1bdc-4184-b1fd-d4da83cfaa1e.png">
 
 ## Main page section
