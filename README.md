@@ -1,8 +1,24 @@
 # FunOmegle or Funegle Front end using vue js
 
+## Demo
+
+-Login
+<img width="959" alt="login" src="https://user-images.githubusercontent.com/62466836/211167274-d695a90b-252e-4aa7-981e-458e52711138.png">
+
+-OTP Section
+<img width="746" alt="otp email" src="https://user-images.githubusercontent.com/62466836/211167275-e0061fa9-8387-4fcb-9e94-b2701423274e.png">
+
+-OTP Received
+<img width="953" alt="otp" src="https://user-images.githubusercontent.com/62466836/211167281-9856c09d-1bdc-4184-b1fd-d4da83cfaa1e.png">
+
+-Main page section
+<img width="960" alt="main page" src="https://user-images.githubusercontent.com/62466836/211167304-2dcfa9f7-ae86-4aba-bc24-a012b67dbc95.png">
+
+-Chat random stranger on a common topic
+<img width="960" alt="stream" src="https://user-images.githubusercontent.com/62466836/211167310-a6a0b0c6-fe85-4080-8dae-0d825304ebe3.png">
+
 ## Backend app project link https://github.com/samanghous/funeglebackend
-
-
+ 
 ## Use case of this project
 - Original Omegle website is an exceptional portal for random video chat .
 - But isn't it annoying when it become extravagantly random and we have to discard a tons of match before actually matching a right person.
@@ -16,10 +32,3 @@
 - Separate node & express backend deployed and running
 - Jwt Token System is used where token is saved in users local storage after login & removed after expiry/logout
 
-## Demo
-
- ![omg1](https://user-images.githubusercontent.com/62466836/209998434-fa1be5b2-3e55-42a8-b63c-5786acfd3235.jpg)
-
-<img width="960" alt="omg2" src="https://user-images.githubusercontent.com/62466836/210000788-51ab156b-5137-4dcf-864e-df5a6201b03a.png">
-<img width="959" alt="omg3" src="https://user-images.githubusercontent.com/62466836/209998495-365ed064-c902-4d5d-8d51-268267c753f4.png">
-<img width="959" alt="omg4" src="https://user-images.githubusercontent.com/62466836/209998522-f2714c66-6741-48b9-982c-be78075e0de9.png">
