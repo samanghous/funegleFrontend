@@ -21,9 +21,9 @@
 ## Backend app project link https://github.com/samanghous/funeglebackend
  
 ## Use case of this project
-- In original Omegle it annoying when it become extravagantly random .
-- We have to discard a tons of match before actually matching a right person.
-- Common interest is needed for before match.
+- In original Omegle it annoying when it become extravagantly random 
+- We have to discard a tons of match before actually matching a right person
+- Common interest is needed for before match
 - This project solves this problem
 
 ## Features of this project
