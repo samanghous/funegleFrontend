@@ -6,7 +6,7 @@
 ## Login Page
 <img width="959" alt="login" src="https://user-images.githubusercontent.com/62466836/211167274-d695a90b-252e-4aa7-981e-458e52711138.png">
 
-## OTP Received (otp send by backend to respective email && stored in db as hashed format)
+## OTP Received (otp send by backend to respective email and stored in db as hashed format)
 <img width="746" alt="otp email" src="https://user-images.githubusercontent.com/62466836/211167275-e0061fa9-8387-4fcb-9e94-b2701423274e.png">
 
 ## OTP Page
