@@ -1,4 +1,6 @@
-# FunOmegle or Funegle Front end using vue js
+# FunOmegle or Funegle Front end (vue js)
+# Deployment at render.com https://frontend-qudg.onrender.com
+
 # Demo
 
 ## Login Page
@@ -32,4 +34,5 @@
 - Separate node & express backend deployed and running
 - Jwt Token System is used where 
 - Token is saved in users local storage after login & removed after expiry/logout
+
 
